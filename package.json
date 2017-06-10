@@ -1,0 +1,17 @@
+{
+  "name": "api-console-example",
+  "version": "1.0.0",
+  "description": "Example app to show how to audo load api-console on a hapijs api.",
+  "main": "index.js",
+  "dependencies": {
+    "api-console": "^3.0.17",
+    "hapi": "^16.4.3",
+    "inert": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Fischer",
+  "license": "ISC"
+}
